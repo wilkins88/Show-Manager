@@ -8,12 +8,12 @@ const app: Application = express();
 
 boot(app);
 
-app.use(express.static('ui'));
+app.use(express.static('client/build'));
 
 app.get('/graphql', (req: Request, res: Response): void => {
   res.send('API STUFF');
 });
 
 app.listen(process.env.SERVER_PORT, () => {
-  //console.log(`Example app listening on port ${process.env.SERVER_PORT}`)
+  //console.log(`Example app listening on port ${process.env.SERVER_PORT}`);
 });
