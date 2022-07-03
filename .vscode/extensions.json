@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "redhat.vscode-xml",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens",
+    "ms-vsliveshare.vsliveshare",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "esbenp.prettier-vscode",
+    "jasonnutter.search-node-modules"
+  ]
+}
