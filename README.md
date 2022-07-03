@@ -1,2 +1,3 @@
-# village-theatre
-Repo for work for the Village Theatre Costume Shop
+# Show Manager
+
+WIP - Application for managing various aspects of a production.
